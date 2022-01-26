@@ -1,8 +1,8 @@
 # Clone Netflix
 
 ## Meu Projeto
-  [Clone Netflix]( https://tysonos.github.io/clone-netflix/netflix)
   
+  <a href="https://tysonos.github.io/clone-netflix/netflix" target="_blank">Clone Netflix<a>
 
 ## Descrição do Desafio
 
